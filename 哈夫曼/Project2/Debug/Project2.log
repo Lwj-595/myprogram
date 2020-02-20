@@ -1,0 +1,4 @@
+﻿  哈夫曼.cpp
+c:\users\12465\source\repos\project2\project2\哈夫曼.cpp(64): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\12465\source\repos\project2\project2\哈夫曼.cpp(72): warning C4101: “f”: 未引用的局部变量
+  Project2.vcxproj -> C:\Users\12465\source\repos\Project2\Debug\Project2.exe
