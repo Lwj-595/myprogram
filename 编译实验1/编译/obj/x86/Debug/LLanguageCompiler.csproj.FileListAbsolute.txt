@@ -1,0 +1,34 @@
+E:\Visual Studio\编译实验1\编译\obj\x86\Debug\编译.Properties.Resources.resources
+E:\Visual Studio\编译实验1\编译\obj\x86\Debug\LLanguageCompiler.csproj.GenerateResource.Cache
+E:\Visual Studio\编译实验1\编译\obj\x86\Debug\编译实验.exe
+E:\Visual Studio\编译实验1\编译\obj\x86\Debug\编译实验.pdb
+E:\Visual Studio\编译实验1\编译\bin\Debug\编译实验.exe
+E:\Visual Studio\编译实验1\编译\bin\Debug\编译实验.pdb
+E:\Visual Studio\编译实验1\编译\obj\x86\Debug\LLanguageCompiler.csprojResolveAssemblyReference.cache
+E:\Visual Studio\编译实验1\编译\obj\x86\Debug\LLanguageComplier.LLC.resources
+D:\Desktop\王岩\实验\编译实验\编译实验1\编译\obj\x86\Debug\编译实验.exe
+D:\Desktop\王岩\实验\编译实验\编译实验1\编译\obj\x86\Debug\编译实验.pdb
+D:\Desktop\王岩\实验\编译实验\编译实验1\编译\bin\Debug\编译实验.exe
+D:\Desktop\王岩\实验\编译实验\编译实验1\编译\bin\Debug\编译实验.pdb
+D:\Desktop\王岩\实验\编译实验\编译实验1\编译\obj\x86\Debug\LLanguageCompiler.csprojResolveAssemblyReference.cache
+D:\Desktop\王岩\实验\编译实验\编译实验1\编译\obj\x86\Debug\LLanguageComplier.LLC.resources
+D:\Desktop\王岩\实验\编译实验\编译实验1\编译\obj\x86\Debug\编译.Properties.Resources.resources
+D:\Desktop\王岩\实验\编译实验\编译实验1\编译\obj\x86\Debug\LLanguageCompiler.csproj.GenerateResource.Cache
+C:\Users\12465\Desktop\编译实验1\编译\bin\Debug\编译实验.exe
+C:\Users\12465\Desktop\编译实验1\编译\bin\Debug\编译实验.pdb
+C:\Users\12465\Desktop\编译实验1\编译\obj\x86\Debug\LLanguageCompiler.csprojAssemblyReference.cache
+C:\Users\12465\Desktop\编译实验1\编译\obj\x86\Debug\LLanguageComplier.LLC.resources
+C:\Users\12465\Desktop\编译实验1\编译\obj\x86\Debug\编译.Properties.Resources.resources
+C:\Users\12465\Desktop\编译实验1\编译\obj\x86\Debug\LLanguageCompiler.csproj.GenerateResource.cache
+C:\Users\12465\Desktop\编译实验1\编译\obj\x86\Debug\LLanguageCompiler.csproj.CoreCompileInputs.cache
+C:\Users\12465\Desktop\编译实验1\编译\obj\x86\Debug\编译实验.exe
+C:\Users\12465\Desktop\编译实验1\编译\obj\x86\Debug\编译实验.pdb
+D:\编程学习资料\课程设计\编译实验1\编译\bin\Debug\编译实验.exe
+D:\编程学习资料\课程设计\编译实验1\编译\bin\Debug\编译实验.pdb
+D:\编程学习资料\课程设计\编译实验1\编译\obj\x86\Debug\LLanguageCompiler.csprojAssemblyReference.cache
+D:\编程学习资料\课程设计\编译实验1\编译\obj\x86\Debug\LLanguageComplier.LLC.resources
+D:\编程学习资料\课程设计\编译实验1\编译\obj\x86\Debug\编译.Properties.Resources.resources
+D:\编程学习资料\课程设计\编译实验1\编译\obj\x86\Debug\LLanguageCompiler.csproj.GenerateResource.cache
+D:\编程学习资料\课程设计\编译实验1\编译\obj\x86\Debug\LLanguageCompiler.csproj.CoreCompileInputs.cache
+D:\编程学习资料\课程设计\编译实验1\编译\obj\x86\Debug\编译实验.exe
+D:\编程学习资料\课程设计\编译实验1\编译\obj\x86\Debug\编译实验.pdb
